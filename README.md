@@ -1,4 +1,4 @@
-terraform Root module to create security group and aws e2 instance
+terraform root module to create security group and aws e2 instance
 -----------------------------------------------------------------------
 
 Security group is created to limit ssh access to the ec2 instance
