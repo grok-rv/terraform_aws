@@ -1,3 +1,9 @@
+Requirements:
+--------------------------------------
+
+Terraform version v0.12.6 and more
+
+
 terraform root module to create security group and aws e2 instance
 -----------------------------------------------------------------------
 
