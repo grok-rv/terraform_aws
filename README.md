@@ -37,4 +37,4 @@ terraform apply tfplan
 Terraform destroy resources:
 -------------------------------------------
 
-terraform destroy
+terraform destroy -auto-approve
